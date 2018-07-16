@@ -1,10 +1,13 @@
-* {
-  text-font: Helvetica;
+body {
+  font-family: Helvetica;
   text-align: center;
 }
 #title-section {
   background-image: url("../images/the-flatiron-building.png");
-  background-color: black;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-position: left;
+  background-color: white;
 }
 
 #main-title {
@@ -21,4 +24,28 @@
 #process-title {
   font-size: 32px;
   font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#designed {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+#copy-rights {
+  font-size: 11px;
 }
