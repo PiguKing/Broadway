@@ -1,3 +1,25 @@
-#main-nav {
+* {
+  text-font: Helvetica;
+  text-align: center;
+}
+#title-section {
+  background-image: url("../images/the-flatiron-building.png");
+  background-color: black;
+}
+
+#main-title {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+nav p {
   list-style-type: none;
+  font-size: 18px;
+  color: seagreen;
+}
+
+#process-title {
+  font-size: 32px;
+  font-weight: bold;
 }
