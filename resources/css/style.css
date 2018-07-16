@@ -13,10 +13,9 @@
   color: white;
 }
 
-nav p {
-  list-style-type: none;
+#main-nav {
   font-size: 18px;
-  color: seagreen;
+  color: white;
 }
 
 #process-title {
